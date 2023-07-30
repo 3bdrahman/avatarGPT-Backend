@@ -1,6 +1,6 @@
 #  AvatarView Backend Project
 This documentation provides an overview of the backend project, including the server and routes configuration. 
-Frontend project: <a href="https://github.com/3bdrahman/ava_frontend">here</a>
+Frontend project: <a href="https://github.com/3bdrahman/avatarGPT">here</a>
 
 ### Backend structure
 The backend project in majority consists of:
